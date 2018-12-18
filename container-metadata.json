@@ -1,0 +1,11 @@
+{
+  "ernVersion": "0.27.0",
+  "jsApiImpls": [],
+  "miniApps": [
+    "/Users/qss/Documents/Project/ElectrodeNativeTutorial/SampleMiniApp/SampleMiniApp"
+  ],
+  "nativeDeps": [
+    "react-native@0.57.5"
+  ],
+  "platform": "ios"
+}
